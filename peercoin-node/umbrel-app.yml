@@ -1,0 +1,15 @@
+id: peercoin-node
+name: Peercoin Node
+version: "1.0.0"
+tagline: Full Peercoin node
+description: Synchronizacja blockchain Peercoin
+developer: Marcin Infrastructure
+website: https://peercoin.net
+dependencies: []
+repo: marcin-store
+support: https://peercoin.net
+port: 9901
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
