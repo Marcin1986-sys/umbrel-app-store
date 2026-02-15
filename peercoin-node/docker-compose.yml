@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  peercoin:
+    image: peercoin/peercoind:latest
+    container_name: peercoin-node
+    volumes:
+      - ./data:/home/peercoin/.peercoin
+    ports:
+      - "9901:9901"
+    restart: unless-stopped
