@@ -6,7 +6,7 @@ description: Synchronizacja blockchain Peercoin
 developer: Marcin Infrastructure
 website: https://peercoin.net
 dependencies: []
-repo: marcin-store
+repo: "https://github.com/Marcin1986-sys/umbrel-app-store"
 support: https://peercoin.net
 port: 9901
 gallery: []
